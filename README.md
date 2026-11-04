@@ -1,6 +1,6 @@
 # Training - Stories
 
-This repository will be used to complete the required steps to achieve the requested training user stories.
+This repository will be used to complete the required steps to achieve the requested training user stories by the Request S.A. training leaders.
 
 
 ## Authors
